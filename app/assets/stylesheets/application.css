@@ -16,15 +16,7 @@
  *= require font-awesome
  *= require jquery-ui
  */
- .masthead {
-   background-image: url("/assets/bg3.jpg");
-   background-size: cover;
-   -webkit-background-size: cover;
-   -moz-background-size: cover;
-   -o-background-size: cover;
-   background-repeat: no-repeat;
-   postion:absolute;
- }
+
 
 @import "font-awesome-sprockets";
 @import "font-awesome";
